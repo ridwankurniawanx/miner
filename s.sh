@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "stop"
+ping www.google.com
