@@ -1,9 +1,9 @@
 #!/bin/bash
-timeout 180s ./c.sh
-timeout 120s cd
-timeout 180s ./c.sh
-timeout 120s cd
-timeout 180s ./c.sh
-timeout 120s cd
-timeout 180s ./c.sh
-timeout 120s cd
+timeout 120s ./c.sh
+timeout 120s ./s.sh
+timeout 120s ./c.sh
+timeout 120s ./s.sh
+timeout 120s ./c.sh
+timeout 120s ./s.sh
+timeout 120s ./c.sh
+timeout 120s ./s.sh
